@@ -1,1 +1,1 @@
-# KolokwiumForStudents
+# KolokwiumMe
